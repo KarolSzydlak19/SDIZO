@@ -1,0 +1,17 @@
+﻿  List.cpp
+C:\Users\karol\Desktop\SDIZO_2\sdizo_projekt2\ConsoleApplication1\List.cpp(160,30): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\karol\Desktop\SDIZO_2\sdizo_projekt2\ConsoleApplication1\List.cpp(395,6): warning C4101: "value": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Desktop\SDIZO_2\sdizo_projekt2\ConsoleApplication1\List.cpp(387,36): warning C4101: "diffTime": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Desktop\SDIZO_2\sdizo_projekt2\ConsoleApplication1\List.cpp(390,7): warning C4101: "opt": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Desktop\SDIZO_2\sdizo_projekt2\ConsoleApplication1\List.cpp(393,6): warning C4101: "min": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Desktop\SDIZO_2\sdizo_projekt2\ConsoleApplication1\List.cpp(387,27): warning C4101: "endTime": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Desktop\SDIZO_2\sdizo_projekt2\ConsoleApplication1\List.cpp(387,16): warning C4101: "startTime": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Desktop\SDIZO_2\sdizo_projekt2\ConsoleApplication1\List.cpp(441,6): warning C4101: "value": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Desktop\SDIZO_2\sdizo_projekt2\ConsoleApplication1\List.cpp(433,36): warning C4101: "diffTime": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Desktop\SDIZO_2\sdizo_projekt2\ConsoleApplication1\List.cpp(436,7): warning C4101: "opt": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Desktop\SDIZO_2\sdizo_projekt2\ConsoleApplication1\List.cpp(439,6): warning C4101: "min": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Desktop\SDIZO_2\sdizo_projekt2\ConsoleApplication1\List.cpp(433,27): warning C4101: "endTime": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Desktop\SDIZO_2\sdizo_projekt2\ConsoleApplication1\List.cpp(433,16): warning C4101: "startTime": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Desktop\SDIZO_2\sdizo_projekt2\ConsoleApplication1\List.cpp(70): warning C4715: "List::loadFromFileForMST”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\karol\Desktop\SDIZO_2\sdizo_projekt2\ConsoleApplication1\List.cpp(46): warning C4715: "List::loadFromFileMST”: niewszystkie ścieżki kodu zwracają wartość
+  ConsoleApplication1.vcxproj -> C:\Users\karol\Desktop\SDIZO_2\sdizo_projekt2\x64\Debug\ConsoleApplication1.exe

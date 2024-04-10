@@ -1,0 +1,9 @@
+﻿  Heap.cpp
+C:\Users\karol\Desktop\sdizo projekt 1\SDIZO_zad1\sdizo_zad1\Heap.cpp(236,10): warning C4309: "=": obcięcie stałej wartości
+C:\Users\karol\Desktop\sdizo projekt 1\SDIZO_zad1\sdizo_zad1\Heap.cpp(237,10): warning C4309: "=": obcięcie stałej wartości
+C:\Users\karol\Desktop\sdizo projekt 1\SDIZO_zad1\sdizo_zad1\Heap.cpp(238,10): warning C4309: "=": obcięcie stałej wartości
+C:\Users\karol\Desktop\sdizo projekt 1\SDIZO_zad1\sdizo_zad1\Heap.cpp(239,10): warning C4309: "=": obcięcie stałej wartości
+C:\Users\karol\Desktop\sdizo projekt 1\SDIZO_zad1\sdizo_zad1\Heap.cpp(240,10): warning C4309: "=": obcięcie stałej wartości
+C:\Users\karol\Desktop\sdizo projekt 1\SDIZO_zad1\sdizo_zad1\Heap.cpp(276,7): warning C4101: "value": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\karol\Desktop\sdizo projekt 1\SDIZO_zad1\sdizo_zad1\Heap.cpp(344,10): warning C4101: "r": lokalna zmienna, do której nie istnieje odwołanie
+  sdizo_zad1.vcxproj -> C:\Users\karol\Desktop\sdizo projekt 1\SDIZO_zad1\x64\Debug\sdizo_zad1.exe
